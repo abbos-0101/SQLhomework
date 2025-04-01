@@ -1,0 +1,2 @@
+# SQLhomework
+learning sql
